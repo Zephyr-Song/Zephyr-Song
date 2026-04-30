@@ -45,35 +45,6 @@
 
 ---
 
-## 🛠️ Tech Stack
-
-### 💻 Languages
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,go,rust,c,cpp,java&theme=dark" alt="Languages"/>
-</div>
-
-### 🎨 Frontend
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react,vue,nextjs,html,css,tailwind,bootstrap,sass&theme=dark" alt="Frontend"/>
-</div>
-
-### ⚙️ Backend & Database
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,postgres,mysql,mongodb,redis&theme=dark" alt="Backend"/>
-</div>
-
-### 🚀 DevOps & Cloud
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=git,docker,kubernetes,aws,gcp,azure,nginx,linux&theme=dark" alt="DevOps"/>
-</div>
-
-### 🛠️ Tools
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,idea,pycharm,gitlab,github,postman,figma&theme=dark" alt="Tools"/>
-</div>
-
----
-
 ## 📈 Contribution Graph
 
 <div align="center">
