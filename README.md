@@ -1,0 +1,129 @@
+# 👋 Hi there, I'm Zephyr Song!
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Open+Source+Enthusiast;Lifelong+Learner;Coffee+Lover+%E2%98%95" alt="Typing SVG" />
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://zephyrsong.qzz.io/"><img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/></a>
+  <a href="https://github.com/Zephyr-Song"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="mailto:2321286740@qq.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</div>
+
+---
+
+## 🚀 About Me
+
+- 🔭 Currently working on **awesome open-source projects**
+- 🌱 Learning **Cloud Native Technologies & System Design**
+- 👯 Looking to collaborate on **innovative open-source projects**
+- 💬 Ask me about **Web Development, Cloud, and Open Source**
+- ⚡ Fun fact: **I debug with console.log and I'm proud of it!** 😄
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Zephyr-Song&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="Zephyr's GitHub Stats" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zephyr-Song&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" height="180em"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zephyr-Song&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=C9D1D9&sideLabels=C9D1D9&dates=C9D1D9" alt="GitHub Streak" />
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Zephyr-Song&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies"/>
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,go,rust,c,cpp,java&theme=dark" alt="Languages"/>
+</div>
+
+### 🎨 Frontend
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,vue,nextjs,html,css,tailwind,bootstrap,sass&theme=dark" alt="Frontend"/>
+</div>
+
+### ⚙️ Backend & Database
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,postgres,mysql,mongodb,redis&theme=dark" alt="Backend"/>
+</div>
+
+### 🚀 DevOps & Cloud
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,docker,kubernetes,aws,gcp,azure,nginx,linux&theme=dark" alt="DevOps"/>
+</div>
+
+### 🛠️ Tools
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,idea,pycharm,gitlab,github,postman,figma&theme=dark" alt="Tools"/>
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zephyr-Song&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9&area=true&area_color=58A6FF" alt="Contribution Graph"/>
+</div>
+
+---
+
+## 🌟 Featured Projects
+
+<div align="center">
+  
+### 🔥 Pin your best projects here!
+  
+<a href="https://github.com/Zephyr-Song?tab=repositories">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zephyr-Song&repo=Zephyr-Song&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="Profile Repository" />
+</a>
+
+</div>
+
+---
+
+## 🎯 2026 Goals
+
+- [ ] Contribute to **5+ open-source projects**
+- [ ] Learn **Rust or Go** deeply
+- [ ] Build and deploy a **full-stack SaaS application**
+- [ ] Write **30+ technical blog posts**
+- [ ] Reach **500+ GitHub followers** 🌟
+
+---
+
+## 📫 Let's Connect!
+
+<div align="center">
+  <a href="https://zephyrsong.qzz.io/"><img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+  <a href="https://github.com/Zephyr-Song"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:2321286740@qq.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</div>
+
+---
+
+## 👀 Visitor Count
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Zephyr-Song/count.svg" alt="Visitor Count" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=ffffff&animation=fadeIn" alt="Footer"/>
+</div>
