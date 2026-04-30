@@ -119,7 +119,7 @@
 ## 👀 Visitor Count
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/Zephyr-Song/count.svg" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=Zephyr-Song&label=Profile%20Views&color=0e75b6&style=flat" alt="Visitor Count" />
 </div>
 
 ---
