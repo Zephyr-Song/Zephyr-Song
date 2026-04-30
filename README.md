@@ -73,7 +73,6 @@
 - [ ] Learn **Rust or Go** deeply
 - [ ] Build and deploy a **full-stack SaaS application**
 - [ ] Write **30+ technical blog posts**
-- [ ] Reach **500+ GitHub followers** 🌟
 
 ---
 
@@ -94,6 +93,10 @@
 </div>
 
 ---
+
+<br/>
+<br/>
+<br/>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=ffffff&animation=fadeIn" alt="Footer"/>
