@@ -23,35 +23,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zephyr-Song&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zephyr-Song&layout=compact&theme=tokyonight" alt="Top Languages" height="180em"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zephyr-Song&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Zephyr-Song&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies"/>
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zephyr-Song&theme=tokyonight&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9&area=true&area_color=58A6FF" alt="Contribution Graph"/>
-</div>
-
----
-
 ## 🌟 Featured Projects
 
 <div align="center">
@@ -59,7 +30,7 @@
 ### 🔥 Pin your best projects here!
   
 <a href="https://github.com/Zephyr-Song?tab=repositories">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zephyr-Song&repo=Zephyr-Song&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="Profile Repository" />
+  <img src="https://img.shields.io/badge/Check%20my%20repos-181717?style=for-the-badge&logo=github&logoColor=white" alt="Check my repos" />
 </a>
 
 </div>
