@@ -7,9 +7,9 @@
 <br/>
 
 <div align="center">
-  <a href="https://zephyrsong.qzz.io/"><img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/></a>
-  <a href="https://github.com/Zephyr-Song"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="mailto:2321286740@qq.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://zephyrsong.qzz.io/"><img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+  <a href="https://github.com/Zephyr-Song"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:2321286740@qq.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>
 
 ---
@@ -48,7 +48,7 @@
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zephyr-Song&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9&area=true&area_color=58A6FF" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zephyr-Song&theme=tokyonight&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9&area=true&area_color=58A6FF" alt="Contribution Graph"/>
 </div>
 
 ---
@@ -81,7 +81,7 @@
 <div align="center">
   <a href="https://zephyrsong.qzz.io/"><img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
   <a href="https://github.com/Zephyr-Song"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="mailto:2321286740@qq.com"><img src="https://custom-icon-badges.demolab.com/badge/-email-4285F4?style=for-the-badge&logo=mail&logoColor=white" alt="Email"/></a>
+  <a href="mailto:2321286740@qq.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>
 
 ---
