@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Zephyr Song!
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Open+Source+Enthusiast;Lifelong+Learner;Coffee&Tea+Lover+%E2%98%95" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Open+Source+Enthusiast;Lifelong+Learner;Coffee+&Tea+Lover+%E2%98%95" alt="Typing SVG" />
 </div>
 
 <br/>
