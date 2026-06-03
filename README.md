@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Zephyr Song!
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Open+Source+Enthusiast;Lifelong+Learner;Coffee+Lover+%E2%98%95" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Open+Source+Enthusiast;Lifelong+Learner;Coffee&Tea+Lover+%E2%98%95" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -20,13 +20,7 @@
 - 💬 Ask me about **Web Development, Cloud, and Open Source**
 - ⚡ Fun fact: **I debug with console.log and I'm proud of it!** 😄
 
----
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Zephyr-Song&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies"/>
-</div>
 
 ---
 
