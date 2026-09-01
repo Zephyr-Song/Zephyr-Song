@@ -24,13 +24,6 @@
 
 ---
 
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zephyr-Song&theme=tokyo-night" alt="Contribution Graph"/>
-</div>
-
----
 
 ## 🎯 2026 Goals
 
