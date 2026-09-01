@@ -17,8 +17,8 @@
 - 🔭 Currently working on **awesome open-source projects**
 - 🌱 Learning **Cloud Native Technologies & System Design**
 - 👯 Looking to collaborate on **innovative open-source projects**
-- 💬 Ask me about **Web Development, Cloud, and Open Source**
-- ⚡ Fun fact: **I debug with console.log and I'm proud of it!** 😄
+- 💬 communicate me about **Web Development, and Open Source**
+- ⚡ Fun fact: **I debug with console.log and I'm proud of it!** 
 
 
 
