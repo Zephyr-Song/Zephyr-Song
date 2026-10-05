@@ -33,13 +33,6 @@
 
 ---
 
-## 👀 Visitor Count
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Zephyr-Song&label=Profile%20Views&color=0e75b6&style=flat" alt="Visitor Count" />
-</div>
-
----
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=25&fontColor=000000&animation=fadeIn" alt="Footer"/>
