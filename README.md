@@ -27,7 +27,7 @@
 ## 🎯 2026 Goals
 
 - [ ] Contribute to **5+ open-source projects**
-- [ ] Learn **Rust or Go** deeply
+- [ ] Learn **LLM** deeply
 - [ ] Build and deploy a **full-stack SaaS application**
 - [ ] Write **30+ technical blog posts**
 
